@@ -1,0 +1,20 @@
+.navigation {
+    width: 1140px;
+    height: 215px;
+    flex-shrink: 0;
+    border-radius: 10px;
+    background: #f1f1f1;
+}
+
+.navigation__title {
+    font-size: 44px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 52px;
+    padding: 25px 0 20px 50px;
+}
+
+.list__one {
+    color: #02535f;
+    padding-left: 70px;
+}

@@ -1,0 +1,53 @@
+.rubric-one {
+    padding: 0 30px 0 30px;
+}
+
+.rubric-one__block {
+    margin-bottom: 50px;
+}
+
+.rubric-one__block-text-one{
+    width: 490px;
+}
+
+.rubric-one__block-text-two {
+    margin-right: 40px;
+    width: 490px;
+}
+
+
+.rubric-one__img-one {
+    margin-right: 30px;
+}
+
+.rubric-one__img-two {}
+
+.rubric-one__title {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 43px;
+    margin-bottom: 30px;
+}
+
+.rubric-one__block-one {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.rubric-one__text {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.rubric-one__text:last-child {
+    margin-bottom: 0;
+}
+
+.rubric-one__block-two {
+    display: flex;
+}
+

@@ -1,0 +1,70 @@
+.img-five__text {
+    color: #5E5E5E;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+}
+
+.rubric-two {
+    padding: 0 30px 0 30px
+}
+
+.rubric-two__block {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.rubric-two__img-five {
+    margin-bottom: 15px;
+}
+
+.rubric-two__img-four {
+    padding-left: 240px;
+    padding-right: 241px;
+    margin-bottom: 30px;
+}
+
+.rubric-two__img-seven {
+    padding-left: 28px;
+    padding-right: 31px;
+    margin-bottom: 30px;
+}
+
+.rubric-two__img-six {
+    padding-left: 56px;
+    padding-right: 60px;
+    margin-bottom: 30px;
+}
+
+.rubric-two__img-three {
+    margin-bottom: 30px;
+}
+
+.rubric-two__title {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.rubric-two__text {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.rubric-two__text:last-child{
+    margin-bottom: 0;
+}
+
+.rubric-two__figure {
+    border: 1px solid black;
+    width: 1082px;
+    height: 506px;
+    margin-bottom: 30px;
+}
