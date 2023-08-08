@@ -1,0 +1,60 @@
+.rubric-three {
+
+}
+
+.rubric-three-img-fifteen {
+    padding: 0 290px 0 290px;
+}
+
+.rubric-three__block {
+    display: flex;
+    flex-direction: column;
+}
+
+.rubric-three__img-eight {
+    padding: 0 240px 0 240px;
+    margin-bottom: 30px;
+}
+
+.rubric-three__img-eleven {
+    margin-bottom: 30px;
+}
+
+.rubric-three__img-fourteen {
+    padding: 0 382px 0 381px;
+    margin-bottom: 30px;
+}
+
+.rubric-three__img-nine {
+    padding: 0 240px 0 240px;
+    margin-bottom: 30px;
+}
+
+.rubric-three__img-ten {
+}
+
+.rubric-three__img-thirteen {
+    padding: 0 137px 0 137px;
+    margin-bottom: 30px;
+}
+
+.rubric-three__img-twelve {
+    margin-bottom: 30px;
+}
+
+.rubric-three__title {
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+
+.rubric-three__text {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 120%;
+    margin-bottom: 30px;
+}
+

@@ -1,5 +1,5 @@
 .rubric-one {
-    padding: 0 30px 0 30px;
+
 }
 
 .rubric-one__block {
@@ -19,8 +19,6 @@
 .rubric-one__img-one {
     margin-right: 30px;
 }
-
-.rubric-one__img-two {}
 
 .rubric-one__title {
     font-size: 36px;
